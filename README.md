@@ -10,7 +10,7 @@ Sigue estos pasos para clonar el repositorio, instalar las dependencias y ejecut
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/optimuspab/ProductManagerWebsockets.git
+    git clone https://github.com/optimuspab/ProductManager.git
     ```
    
 2. Navega al directorio del proyecto:
